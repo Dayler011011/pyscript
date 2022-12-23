@@ -1,6 +1,6 @@
 # PyScript
 
-Welcome to the PyScript documentation!
+Kosomk to the PyScript documentation!
 
 PyScript provides a way for you to run Python code directly in your browser, giving
 anyone the ability to program without infrastructure barriers. Add an interactive
